@@ -1,0 +1,1 @@
+[定期][iOS 版 feather] feather for Twitter の機能をご紹介！ feather には URL スキームが設定してあります！「feather:」または「com.covelline.feather:」で feather を起動できます！
