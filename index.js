@@ -41,7 +41,7 @@ var selectDirectory = function(cb) {
 // `dir` の中の情報を使って Tweet する
 var uploadImages = function(dir, cb) {
 
-  glob(dir + "/*.{jpg, png}", {realpath: true}, function(err, files) {
+  glob(dir + "/*.{jpg,png}", {realpath: true}, function(err, files) {
 
     var tasks = _.map(files, function(f) {
 
