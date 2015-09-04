@@ -1,0 +1,4 @@
+[定期][iOS 版 feather] feather for Twitter の機能をご紹介！検索結果からRTを除外する方法を紹介します！
+公式/非公式除外:-rt
+公式RTのみ除外:exclude:nativeretweets
+pic.twitter.com/uFTPKVn172
