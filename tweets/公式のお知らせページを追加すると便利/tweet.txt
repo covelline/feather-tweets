@@ -1,0 +1,2 @@
+[定期][iOS 版 feather] Twitter公式Webページをタブに追加することでfavやRTの一覧を確認できます！フォローリクエストの承認を簡易的に行う事もできます！
+https://mobile.twitter.com/i/connect
