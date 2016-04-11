@@ -1,0 +1,1 @@
+[定期][Android 版 feather] 不具合の発見や原因調査をより迅速に行うためにクラッシュレポートをして頂けると助かります🙏 詳細や手順についてはこちらのURLをご確認下さい。https://covelline.zendesk.com/hc/ja/articles/218589747
